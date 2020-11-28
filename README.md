@@ -1,5 +1,6 @@
-# MCM-blueprint
+# MCM-blueprint [![DOI](https://zenodo.org/badge/315429619.svg)](https://zenodo.org/badge/latestdoi/315429619)
 A graph comparison for the Master Chemical Mechanism and Common Representative Intermediates.
+
 
 Work done as part of the PhD Thesis of Daniel Ellis at the Wolfson Atmospheric Chemistry Laboratories. 
 
